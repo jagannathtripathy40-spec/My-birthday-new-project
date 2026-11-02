@@ -22,7 +22,7 @@
 ## 🌐 Live Demo
 
 <h3 align="center">
-  🚀 <a href="(https://jagannath-birthday.vercel.app/)">VISIT THE BIRTHDAY WEBSITE</a>
+  🚀 <a href="https://jagannath-birthday.vercel.app/">VISIT THE BIRTHDAY WEBSITE</a>
 </h3>
 
 <p align="center">
