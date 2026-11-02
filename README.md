@@ -1,20 +1,32 @@
 # 🎂 Happy Birthday, Jagannath! 🎉
 
+<h2 align="center">🎈 A Birthday Surprise Made with Friendship, Fun & Code! 🎈</h2>
+
 <p align="center">
   <img src="JagannathBirthday/assets/jagannath-birthday.png" alt="Jagannath Birthday" width="280">
 </p>
-
-<h2 align="center">🎈 A Birthday Surprise Made with Friendship, Fun & Code! 🎈</h2>
 
 <p align="center">
   A funny, colourful and interactive birthday website created to make Jagannath's special day unforgettable! 🥳
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Mobile-Responsive-success?style=for-the-badge">
+</p>
+
+---
+
+## 🌐 Live Demo
+
+<h3 align="center">
+  🚀 <a href="(https://jagannath-birthday.vercel.app/)">VISIT THE BIRTHDAY WEBSITE</a>
+</h3>
+
+<p align="center">
+  Experience the birthday surprises, funny roasts and celebrations!
 </p>
 
 ---
@@ -36,7 +48,7 @@ Because friends deserve something more than just a simple "Happy Birthday"! 😂
 - 🎂 Interactive birthday cake with candle-blowing animation.
 - 🎁 Mystery gift surprise.
 - 🥳 Special birthday finale.
-- 📱 Mobile-friendly and responsive design.
+- 📱 Fully responsive mobile-friendly design.
 - 🎨 Colourful and playful birthday-themed interface.
 
 ## 🛠️ Technologies Used
@@ -65,36 +77,42 @@ jagannath-birthday/
 
 ## 🚀 Run Locally
 
-1. Clone this repository:
+**1. Clone the repository**
 
 ```bash
 git clone https://github.com/mohitkpani/jagannath-birthday.git
 ```
 
-2. Open the project folder:
+**2. Navigate to the project folder**
 
 ```bash
 cd jagannath-birthday
 ```
 
-3. Open `index.html` in your browser.
+**3. Open the website**
+
+Open `index.html` in your favourite browser.
 
 That's it! Your birthday surprise is ready! 🎉
 
-## 🌐 Live Demo
+## 🎯 Project Purpose
 
-**Coming Soon!** 🚀
+This project was created as a personal birthday surprise to celebrate friendship and make a friend's birthday more memorable.
 
-## 🎯 Purpose
+A small project with a big smile! ❤️
 
-This project was created as a fun personal surprise to celebrate friendship and make a friend's birthday more memorable.
+## ⭐ Support
 
-<p align="center">
-  Made with ❤️, JavaScript & a little bit of madness! 😂
-</p>
+If you enjoyed this little birthday project, consider giving the repository a ⭐ on GitHub!
+
+---
 
 <h2 align="center">🎂 HAPPY BIRTHDAY JAGANNATH! 🎂</h2>
 
 <p align="center">
   <b>Stay Happy. Stay Crazy. Never Grow Up! 🤣</b>
+</p>
+
+<p align="center">
+  Made with ❤️, JavaScript & a little bit of madness!
 </p>
